@@ -1,7 +1,7 @@
 <a href="https://developer.microsoft.com">![Microsoft](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)</a>
 <a href="https://winworldpc.com/product/microsoft-c-c/7x">![C language](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)</a>
 
-# Museum Label Generator
+# Label Generator
 
 A DOS-based application for designing and printing labels, originally developed in 1988 by Ronald D. Redmer.
 
